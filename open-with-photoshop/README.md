@@ -1,7 +1,7 @@
 Open with Photoshop
 ===================
 Enables selected file in the finder to be opened with Photoshop even if they are not Photoshop files. This workflow was inspired from [Franz Heidl][franzheidl]open with Sublime Text 2 Workflow.
-[franzheild]: https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text-2 ""
+[franzheidl]: https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text-2 ""
 
 
 Instructions
